@@ -3,7 +3,7 @@ Include the date you created this project and README file.
 2018-12-16
 ### Project Title
 Replace the Project Title
-github-proj
+git-work
 ### Description
 Describe what your project is about and what it does
 Analysing a different version of the bikshare project
